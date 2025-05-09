@@ -9,6 +9,6 @@ int main(){
         }
         
     }
-    printf("The Sum of Evem number between 1 to 100 is :%d",sum);
+    printf("The Sum of Even number between 1 to 100 is :%d",sum);
       return 0;
 }
